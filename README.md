@@ -1,3 +1,4 @@
+Ashi
 The following repository is answer for Challenges
 
 For Q1 in mySql task, run script Q1_Percentage.sql
