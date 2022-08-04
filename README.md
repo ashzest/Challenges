@@ -2,3 +2,4 @@
 
 this repo is the answers for these challnges
 
+man bash
